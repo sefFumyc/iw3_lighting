@@ -6,9 +6,11 @@ Use **Extreme Injector** or any Injector to inject dll to your **iw3mp.exe** or 
 
 Press **Insert** key to toggle UI
 
-How to know your position:use **viewpos** command
+How to know your position: use **viewpos** command
 
-or if you using iw3xo, go **devgui** - **movement** - **Debug** - **Enable Position Hud**, check it and they will show in your screen.
+or if you using iw3xo, go 
+
+**devgui** - **movement** - **Debug** - **Enable Position Hud**, check it and they will show in your screen.
 
 ## About
 it can work in DX9 or DX11
