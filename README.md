@@ -6,12 +6,14 @@ Use **Extreme Injector** or any Injector to inject dll to your **iw3mp.exe** or 
 
 Press **Insert** key to toggle UI
 
+How to know your position:use **viewpos** command
 
+or if you using iw3xo, go **devgui** - **movement** - **Debug** - **Enable Position Hud**, check it and they will show in your screen.
+
+## About
 it can work in DX9 or DX11
 
 it can work with iwxmvm(only DX9)
-
-## About
 
 reference_ver/single.cpp is more easy to read, but it cant work together with iwxmvm.
 
